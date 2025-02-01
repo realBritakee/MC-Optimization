@@ -22,6 +22,8 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 
 [Additional mods which may be helpful in some situations](mods-n-stuff/additions.md)
 
+[Optimized Settings](https://www.youtube.com/watch?v=tGgDFtavmsk)
+
 | Indicator | Explanation |
 |:---:|:---:|
 | Client | Install if you're playing on singleplayer or multiplayer, redundant server-side |
